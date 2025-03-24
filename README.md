@@ -1,4 +1,4 @@
-# ✅ ToDo App - Flask + PostgreSQL + Frontend Bootstrap
+# ✅ ToDo App
 
 Aplicação simples de lista de tarefas (**ToDo**) construída com **Flask (Python)** no backend, **PostgreSQL** como banco de dados e um **frontend em HTML/CSS com Bootstrap**.  
 O projeto é totalmente containerizado com **Docker** e orquestrado com **Docker Compose**.
@@ -39,7 +39,7 @@ git clone https://github.com/EduardoFelichak/todo-dockerhub.git
 cd todo-dockerhub
 ```
 
-### 1. Executar com Docker Compose
+### 2. Executar com Docker Compose
 
 ```bash
 docker-compose up
