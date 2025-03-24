@@ -39,7 +39,7 @@ git clone https://github.com/EduardoFelichak/todo-dockerhub.git
 cd todo-dockerhub
 ```
 
-### 1. Executar com Docker Compose
+### 2. Executar com Docker Compose
 
 ```bash
 docker-compose up
