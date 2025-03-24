@@ -125,6 +125,8 @@ volumes:
 docker-compose up
 ```
 
+![Exemplo de up correto](prints/exemplo_up.png)
+
 ---
 
 ## 📚 Explicação do `docker-compose.yml`
